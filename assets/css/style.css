@@ -69,9 +69,45 @@ nav a:hover {
 /*-----------------------------------------------------ALi image */
 
 #ali-image {
-    height: 600px;
+    height: 1000px;
     width: 100%;
-    background: url ("../images/nature.png");
+    background: url("../images/ali1.jpg");
     background-position: center;
     background-repeat: no-repeat;
+}
+
+}
+
+#cover-text,
+#cover-text h2 {
+    color: #ffffff;
+    
+    
+
+}
+#cover-text {
+
+    font-size: 130%;
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    
+
+    
+
+    /* background-color: rgba(241, 109, 107, .7);*/
+
+    
+    bottom: 400px;
+    right: 450px;
+    position: absolute;
+}
+
+/* ----------------------------------------------------------meet-me */
+
+#meet-me {
+    height: 200px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: #e2e2e2;
 }
